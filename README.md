@@ -9,6 +9,8 @@ Versão de java: 1.8.0_241
 
 Deve-se editar o arquivo Input.txt presente na pasta do projeto para alterar as regras.
 
+Os arquivos do fractal será gerado na pasta.
+
 Exemplo de regra no texto para se alterar:
 
 Numerode interações/angulação do desenho ==>   interacoes=4,angulo=250
